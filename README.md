@@ -3,7 +3,7 @@ Homebrew Formula for `Graylog2/collector-sidecar` log collector supervisor
 
 ### Installation
 
-Install using [Homebrew](http://brew.sh) and `brew tap`.
+This formula has been merged into [homebrew-core](https://github.com/Homebrew/homebrew-core/blob/master/Formula/collector-sidecar.rb).
 
 ### Post-Installation Setup
 
