@@ -1,4 +1,4 @@
-class CollectorSidecar < Formula
+class CollectorSidecarAT0 < Formula
   desc "Manage log collectors through Graylog"
   homepage "https://github.com/Graylog2/collector-sidecar"
   url "https://github.com/Graylog2/collector-sidecar/archive/0.1.4.tar.gz"
